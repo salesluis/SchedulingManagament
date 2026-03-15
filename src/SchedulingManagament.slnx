@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SchedulingManagament.Application/SchedulingManagament.Application.csproj" />
+  <Project Path="SchedulingManagament.Domain/SchedulingManagament.Domain.csproj" />
+  <Project Path="SchedulingManagament.Infra/SchedulingManagament.Infra.csproj" />
+</Solution>
