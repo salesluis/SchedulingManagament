@@ -10,4 +10,8 @@
       <ProjectReference Include="..\SchedulingManagament.Domain\SchedulingManagament.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="UseCases\" />
+    </ItemGroup>
+
 </Project>

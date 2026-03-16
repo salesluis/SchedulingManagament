@@ -1,4 +1,4 @@
-namespace scheduling_management.Application.DTOs;
+namespace SchedulingManagament.Application.DTOs;
 
 public record CreateUserDto(
     string Name,
