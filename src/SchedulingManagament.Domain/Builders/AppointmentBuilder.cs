@@ -4,7 +4,7 @@ namespace SchedulingManagament.Domain.Builders;
 
 public class AppointmentBuilder
 {
-    private readonly Appointment _appointment;
+    private readonly Appointment _appointment = new();
 
     public AppointmentBuilder WithEstabilishmentId(Guid estabilishmentId)
     {
